@@ -1,0 +1,115 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "grocery-list": [
+    {
+      "id": 1,
+      "title": "Pumpkin",
+      "price": "$12"
+    },
+    {
+      "id": 2,
+      "title": "Onion",
+      "price": "$12"
+    },
+    {
+      "id": 3,
+      "title": "Cabbage",
+      "price": "$12"
+    },
+    {
+      "id": 4,
+      "title": "Cabbage",
+      "price": "$12"
+    },
+    {
+      "id": 5,
+      "title": "Cabbage",
+      "price": "$12"
+    },
+    {
+      "id": 6,
+      "title": "Carrot",
+      "price": "$12"
+    }
+  ],
+  "stationary-list": [
+    {
+      "id": 1,
+      "title": "Pen",
+      "price": "$12"
+    },
+    {
+      "id": 2,
+      "title": "Pencil",
+      "price": "$12"
+    },
+    {
+      "id": 3,
+      "title": "Notebook",
+      "price": "$12"
+    },
+    {
+      "id": 4,
+      "title": "Rounder",
+      "price": "$12"
+    },
+    {
+      "id": 5,
+      "title": "Water Colors",
+      "price": "$12"
+    },
+    {
+      "id": 6,
+      "title": "Pencil Colors",
+      "price": "$12"
+    }
+  ],
+  "cosmatic-list": [
+    {
+      "id": 1,
+      "title": "SunScreen",
+      "price": "$12"
+    },
+    {
+      "id": 2,
+      "title": "Moisturizer",
+      "price": "$12"
+    },
+    {
+      "id": 3,
+      "title": "Face Wash",
+      "price": "$12"
+    },
+    {
+      "id": 4,
+      "title": "Body Lotion",
+      "price": "$12"
+    },
+    {
+      "id": 5,
+      "title": "D tan",
+      "price": "$12"
+    },
+    {
+      "id": 6,
+      "title": "Powder",
+      "price": "$12"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
