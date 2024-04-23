@@ -1,25 +1,31 @@
-<h1 class="text-center mt-6">Purchase History</h1>
+<h1 class="text-center mt-6">Future Discounts</h1>
 <table class="table container mt-5">
   <thead>
     <tr>
       <th scope="col" class="text-center align-center">ID</th>
       <th scope="col" class="text-center align-center">Title</th>
       <th scope="col" class="text-center align-center">Image</th>
-      <th scope="col" class="text-center align-center">Price</th>
       <th scope="col" class="text-center align-center">Type</th>
+      <th scope="col" class="text-center align-center">Old Price</th>
+      <th scope="col" class="text-center align-center">New Price</th>
+      <th scope="col" class="text-center align-center">Start Date</th>
+      <th scope="col" class="text-center align-center">End Date</th>
     </tr>
   </thead>
   <tbody>
-    <tr *ngFor="let item of history; let i = index">
+    <tr *ngFor="let item of discounts; let i = index">
       <th class="text-center align-center" scope="row">{{ i + 1 }}</th>
       <td class="text-center align-center">{{ item.title }}</td>
       <td class="text-center align-center">
         <img src="{{ item.image }}" alt="" height="90px" width="90px" />
       </td>
-      <td class="text-center align-center">{{ item.price }}</td>
       <td class="text-center align-center">
         {{ item.type }}
       </td>
+      <td class="text-center align-center">{{ item.oldprice }}</td>
+      <td class="text-center align-center">{{ item.newprice }}</td>
+      <td class="text-center align-center">{{ item.startdate }}</td>
+      <td class="text-center align-center">{{ item.enddate }}</td>
     </tr>
   </tbody>
 </table>

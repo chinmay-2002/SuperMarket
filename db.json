@@ -17,96 +17,170 @@
     {
       "id": 1,
       "title": "Pumpkin",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.-06upNMc0ar7Olw1zr5ojQHaE7&pid=Api&P=0&h=180"
     },
     {
       "id": 2,
       "title": "Onion",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2017/12/shutterstock_161066597-Onion-group.jpg"
     },
     {
       "id": 3,
       "title": "Cabbage",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.ONGGVxuW-VcndYb-sVS7_wHaE8&pid=Api&P=0&h=180"
     },
     {
       "id": 4,
       "title": "Cabbage",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.ONGGVxuW-VcndYb-sVS7_wHaE8&pid=Api&P=0&h=180"
     },
     {
       "id": 5,
-      "title": "Cabbage",
-      "price": "$12"
+      "title": "Potato",
+      "price": "$12",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.AWZpyyvio-SKVnZ2av7ZlAHaE7&pid=Api&P=0&h=180"
     },
     {
       "id": 6,
       "title": "Carrot",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.CZkr0J3LeRsMafEnZZGpcAHaFj&pid=Api&rs=1&c=1&qlt=95&w=136&h=102"
     }
   ],
   "stationary-list": [
     {
       "id": 1,
       "title": "Pen",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.JyXRRy1CSfNb5DWHeCeKhQHaFj&pid=Api&P=0&w=300&h=300"
     },
     {
       "id": 2,
       "title": "Pencil",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.JhomoKsPJhJzoLYIoawnqwHaGq&pid=Api&P=0&w=300&h=300"
     },
     {
       "id": 3,
       "title": "Notebook",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hyWg9xWXL._SL1100_.jpg"
     },
     {
       "id": 4,
       "title": "Rounder",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.JhomoKsPJhJzoLYIoawnqwHaGq&pid=Api&P=0&w=300&h=300"
     },
     {
       "id": 5,
       "title": "Water Colors",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.JhomoKsPJhJzoLYIoawnqwHaGq&pid=Api&P=0&w=300&h=300"
     },
     {
       "id": 6,
       "title": "Pencil Colors",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61hyWg9xWXL._SL1100_.jpg"
     }
   ],
   "cosmatic-list": [
     {
       "id": 1,
       "title": "SunScreen",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.nCwPlRZb1LcZ5zqG_N05CQAAAA&pid=Api&P=0&h=180"
     },
     {
       "id": 2,
       "title": "Moisturizer",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://i5.walmartimages.com/asr/ea0e7ca1-bc7b-43de-8bbc-3653a95cee06.be720f21b6cfb9e05e984fba701ca283.jpeg"
     },
     {
       "id": 3,
       "title": "Face Wash",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.nCwPlRZb1LcZ5zqG_N05CQAAAA&pid=Api&P=0&h=180"
     },
     {
       "id": 4,
       "title": "Body Lotion",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://i5.walmartimages.com/asr/ea0e7ca1-bc7b-43de-8bbc-3653a95cee06.be720f21b6cfb9e05e984fba701ca283.jpeg"
     },
     {
       "id": 5,
       "title": "D tan",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://i5.walmartimages.com/asr/ea0e7ca1-bc7b-43de-8bbc-3653a95cee06.be720f21b6cfb9e05e984fba701ca283.jpeg"
     },
     {
       "id": 6,
       "title": "Powder",
-      "price": "$12"
+      "price": "$12",
+      "image": "https://i5.walmartimages.com/asr/ea0e7ca1-bc7b-43de-8bbc-3653a95cee06.be720f21b6cfb9e05e984fba701ca283.jpeg"
+    }
+  ],
+  "purchase-history": [
+    {
+      "id": 1,
+      "title": "Pumpkin",
+      "price": "$12",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.nCwPlRZb1LcZ5zqG_N05CQAAAA&pid=Api&P=0&h=180",
+      "type": "Cosmatic"
+    },
+    {
+      "id": 5,
+      "title": "D tan",
+      "price": "$12",
+      "type": "Cosmatic",
+      "image": "https://i5.walmartimages.com/asr/ea0e7ca1-bc7b-43de-8bbc-3653a95cee06.be720f21b6cfb9e05e984fba701ca283.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Powder",
+      "price": "$12",
+      "type": "Cosmatic",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.nCwPlRZb1LcZ5zqG_N05CQAAAA&pid=Api&P=0&h=180"
+    }
+  ],
+  "future-discounts": [
+    {
+      "id": 1,
+      "title": "Pumpkin",
+      "oldprice": "$12",
+      "newprice": "$8",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.nCwPlRZb1LcZ5zqG_N05CQAAAA&pid=Api&P=0&h=180",
+      "type": "Grocery",
+      "startdate": "23/03/2002",
+      "enddate": "25/03/2002"
+    },
+    {
+      "id": 2,
+      "oldprice": "$12",
+      "newprice": "$8",
+      "title": "Powder",
+      "price": "$12",
+      "type": "Cosmatic",
+      "image": "https://i5.walmartimages.com/asr/ea0e7ca1-bc7b-43de-8bbc-3653a95cee06.be720f21b6cfb9e05e984fba701ca283.jpeg",
+      "startdate": "23/03/2002",
+      "enddate": "25/03/2002"
+    },
+    {
+      "id": 3,
+      "title": "Pumpkin",
+      "oldprice": "$12",
+      "newprice": "$8",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.nCwPlRZb1LcZ5zqG_N05CQAAAA&pid=Api&P=0&h=180",
+      "type": "Cosmatic",
+      "startdate": "23/03/2002",
+      "enddate": "25/03/2002"
     }
   ],
   "profile": {
